@@ -1,6 +1,6 @@
 ## Carolina FRANCO ARIZA
 
-![Image](Photo1.jpeg)
+![Image](Photo.jpeg)
 
 
 PhD Student at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
