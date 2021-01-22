@@ -2,7 +2,8 @@
 
 ![Image](Photo1.jpeg)
 
-PhD Student at the [University Gustave Eiffel] (https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
+
+PhD Student at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
 
 
 ### Research: Modeling of buildings' seismic response
