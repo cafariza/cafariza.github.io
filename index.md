@@ -2,38 +2,20 @@
 
 ![Image](Photo1.jpg)
 
-You can use the [editor on GitHub](https://github.com/cafariza/carolinafranco.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PhD Student at the [University Gustave Eiffel] (https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Research: Modeling of buildings' seismic response
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Research: Modeling of buildings' seismic response
-## 
-### 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Engineering Proyects
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cafariza/carolinafranco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Working on robust and simplified modeling techniques for the seismic response assessment of building structures in the SRO Lab at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
+- Homogenized beam models for the dynamics of periodic and reticulated structures to obtain global and local response (structure and element scale)
+- FEM-based models
+- Numerical simulations
+- Multifiber FEM models to capture non-linear effects (material scale)
 
 ### Forensic engineering
+- Post-seismic mission after 2018th Lombok's Earthquakes (2018-Lombok, Indonesia) (see [AFPS site](http://www.afps-seisme.org/ACTIVITES/Missions-post-sismiques/2018-Lombok))
+- Identify structural damages after a explotion from exterior (terrorist attack). Assessment of building's structural vulnerability. (2017- Istambul, Turkey) 
+- Material and structural assessment of a building under construction after a long-lasting fire. (2016- Ankara, Turkey)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Linkedin**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
+**GitLab**: [@cafariza](https://gitlab.com/cafariza).
