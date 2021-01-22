@@ -23,6 +23,10 @@ theme: jekyll-theme-minimal
 title: cafariza
 email: carolina.franco@univ-eiffel.fr
 description: "It's not what you achieve, it's what you overcome" . 
+#logo: [Location of the logo]
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cafariza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "http://localhost:4000"
