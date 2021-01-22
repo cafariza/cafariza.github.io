@@ -1,10 +1,3 @@
-## Carolina FRANCO ARIZA
-
-<img src="Photo.jpeg" alt="drawing" width="200"/>
-
-PhD Student at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
-
-
 ### Research: Modeling of buildings' seismic response
 Working on robust and simplified modeling techniques for the seismic response assessment of building structures at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
 
