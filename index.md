@@ -5,7 +5,8 @@ PhD Student at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.f
 
 
 ### Research: Modeling of buildings' seismic response
-Working on robust and simplified modeling techniques for the seismic response assessment of building structures in the SRO Lab at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
+Working on robust and simplified modeling techniques for the seismic response assessment of building structures at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
+
 - Homogenized beam models for the dynamics of periodic and reticulated structures to obtain global and local response (structure and element scale)
 - FEM-based models
 - Numerical simulations
