@@ -1,3 +1,6 @@
+at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
+#MSc Earthquake Engineering (MEEES) of the [IUSS Pavia](http://www.iusspavia.it/home)
+#Civil Engineer of the Industrial University of Santander [UIS](https://www.uis.edu.co/webUIS/es/index.jsp)"
 
 ### Research: Modeling of buildings' seismic response
 Working on robust and simplified modeling techniques for the seismic response assessment of building structures at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
