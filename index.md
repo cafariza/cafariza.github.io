@@ -1,3 +1,5 @@
+layout: default
+
 ## Carolina FRANCO ARIZA
 <img src="Photo.jpeg" alt="drawing" width="200"/>
 
