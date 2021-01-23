@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: cafariza
+title: Carolina FRANCO ARIZA
 email: carolina.franco@univ-eiffel.fr
 description: "It's not what you achieve, it's what you overcome"
 logo: Photo.jpeg
@@ -10,7 +10,6 @@ show_downloads: false
 # Author settings
 author: Carolina FRANCO ARIZA # add your name
 author-img: Photo.jpeg # add your photo
-#social-twitter: flomin_ # add your Twitter handle
 social-github: cafariza # add your Github handle
 social-linkedin: cafariza # add your Linkedin handle
 social-email: cafariza@gmail.com # add your Email address
