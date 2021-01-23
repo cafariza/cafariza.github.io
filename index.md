@@ -1,4 +1,4 @@
-at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
+Working at the departement of geotechnical engineering, earth sciences and natural hazards (GERS) at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France)
 #MSc Earthquake Engineering (MEEES) of the [IUSS Pavia](http://www.iusspavia.it/home)
 #Civil Engineer of the Industrial University of Santander [UIS](https://www.uis.edu.co/webUIS/es/index.jsp)"
 
