@@ -2,10 +2,9 @@ theme: jekyll-theme-minimal
 
 title: cafariza
 email: carolina.franco@univ-eiffel.fr
-description: "It's not what you achieve, it's what you overcome" . 
+description: "It's not what you achieve, it's what you overcome"
 logo: Photo.jpeg
 show_downloads: false
-google_analytics: 
 
 
 # Author settings
