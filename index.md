@@ -11,7 +11,7 @@ Working on robust and simplified modeling techniques for the seismic response as
 
 ### Forensic engineering
 - Post-seismic mission after 2018th Lombok's Earthquakes (2018-Lombok, Indonesia) (see [AFPS site](http://www.afps-seisme.org/ACTIVITES/Missions-post-sismiques/2018-Lombok))
-- Identify structural damages after a explotion from exterior (terrorist attack). Assessment of building's structural vulnerability. (2017- Istambul, Turkey) 
+- Identify structural damages after a explosion from exterior (bombing attack). Assessment of building's structural vulnerability. (2017- Istambul, Turkey) 
 - Material and structural assessment of a building under construction after a long-lasting fire. (2016- Ankara, Turkey)
 
 **Linkedin**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
