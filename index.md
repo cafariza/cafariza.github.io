@@ -17,7 +17,7 @@ Working on robust and simplified modeling techniques for the seismic response as
 **Linkedin**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
 **GitLab**: [@cafariza](https://gitlab.com/cafariza).
 
-###
+### Ma thèse :
 
 Je vous présente toutes mes excuses pour mon français. Je vais éssayer d'expliquer mon sujet de thèse à ceux qui ne sont pas dans le même milieu technique: 
 
