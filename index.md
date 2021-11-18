@@ -1,8 +1,17 @@
-Currently working at the department of geotechnical engineering, earth sciences, and natural hazards (GERS) at the [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France). My master's degree is from the MEEES program in Earthquake Engineering of the [IUSS Pavia](http://www.iusspavia.it/home). 
-I obtained my Civil Engineer diploma from the Industrial University of Santander [UIS](https://www.uis.edu.co/webUIS/es/index.jsp)"
+Actually working on the seismic vulnerability of long-period structures subjected to strongly-surface wave-influenced ground motion data.  
+
+Worked on simplified and robust modeling techniques to evaluate the seismic response of buildings. 
+
+
+### Academic Background
+
+Ph.D. in Civil Engineering-  [University Gustave Eiffel](https://www.univ-gustave-eiffel.fr/) (Ex-IFSTTAR) (France).
+Master's degree in Earthquake Engineering-  [IUSS Pavia](http://www.iusspavia.it/home). 
+Bsch in Civil Engineering- [UIS](https://www.uis.edu.co/webUIS/es/index.jsp)
+
 
 ### Research: Modeling of buildings' seismic response
-Working on robust and simplified modeling techniques for the seismic response assessment of building structures at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
+Worked on robust and simplified modeling techniques for the seismic response assessment of building structures at the department of geotechnical engineering, earth sciences and natural hazards (GERS)
 
 - Homogenized beam models for the dynamics of periodic and reticulated structures to obtain global and local response (structure and element scale)
 - FEM-based models
