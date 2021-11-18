@@ -25,6 +25,7 @@ Worked on robust and simplified modeling techniques for the seismic response ass
 
 **Linkedin**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
 **GitLab**: [@cafariza](https://gitlab.com/cafariza).
+**ResearchGate**: [Carolina Franco Ariza] (https://www.researchgate.net/profile/Carolina-Franco-Ariza-2)
 
 ### Ma thèse :
 
