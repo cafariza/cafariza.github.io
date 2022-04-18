@@ -23,11 +23,12 @@ Worked on robust and simplified modeling techniques for the seismic response ass
 - Identify structural damages after an explosion from the exterior (bombing attack). Assessment of building's structural vulnerability. (2017- Istambul, Turkey) 
 - Material and structural assessment of a building under construction after a long-lasting fire. (2016- Ankara, Turkey)
 
-**Linkedin**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
+### More Info
+**LinkedIn**: [Carolina FRANCO](https://www.linkedin.com/in/cafariza/).
 **GitLab**: [@cafariza](https://gitlab.com/cafariza).
 **ResearchGate**: [Carolina Franco Ariza](https://www.researchgate.net/profile/Carolina-Franco-Ariza-2)
 
-### 
+### Research description
 
 Une description de mon sujet de thèse appuyée sur une analogie pour ceux qui ne travaillent pas dans le même milieu technique: 
 
