@@ -8,3 +8,8 @@ Ph.D in Civil Engineering from the [University Gustave Eiffel](https://www.univ-
 MSc Earthquake Engineering (MEEES) of the [IUSS Pavia](http://www.iusspavia.it/home)
 
 Civil Engineer of the Industrial University of Santander [UIS](https://www.uis.edu.co/webUIS/es/index.jsp)
+
+## Contact Me
+
+[Email:](mailto:cafariza@gmail.com)
+[Phone:](callto:+33787443343)
