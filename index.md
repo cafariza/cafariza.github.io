@@ -30,9 +30,7 @@ Worked on robust and simplified modeling techniques for the seismic response ass
 
 
 ## Contact
-
-[Email: cafariza@gmail.com](mailto:cafariza@gmail.com)
-
+[Email: cafariza@gmail.com](mailto:cafariza@gmail.com).
 [Phone: +33787443343](callto:+33787443343)
 
 
