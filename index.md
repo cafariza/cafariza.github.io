@@ -28,6 +28,14 @@ Worked on robust and simplified modeling techniques for the seismic response ass
 **GitLab**: [@cafariza](https://gitlab.com/cafariza).
 **ResearchGate**: [Carolina Franco Ariza](https://www.researchgate.net/profile/Carolina-Franco-Ariza-2)
 
+
+## Contact
+
+[Email: cafariza@gmail.com](mailto:cafariza@gmail.com)
+
+[Phone: +33787443343](callto:+33787443343)
+
+
 ### Research description
 
 Une description de mon sujet de thèse appuyée sur une analogie pour ceux qui ne travaillent pas dans le même milieu technique: 
